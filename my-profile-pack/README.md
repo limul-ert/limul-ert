@@ -13,10 +13,8 @@
 - Mencoba
 - Terima
 
-
 ## 🧠 My Focus Areas
 - Frontend
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -31,16 +29,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=limul-ert&theme=dracula&radius=10" alt="limul-ert's Activity Graph" />
 </p>
-
-<!-- 
-⚠️ CATATAN UNTUK GAMBAR 3D CITY:
-Pastikan kamu sudah mengunggah file bernama 'profile-3d-city.svg' ke repositori ini agar gambarnya muncul. 
-Jika belum punya file-nya, kamu bisa menghapus baris di bawah ini.
--->
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -84,20 +72,6 @@ Jika belum punya file-nya, kamu bisa menghapus baris di bawah ini.
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
-<!-- 
-⚠️ CATATAN UNTUK PACMAN GRAPH:
-Kode di bawah ini sudah saya arahkan ke username kamu. 
-Namun, agar animasi Pacman-nya berjalan memakan kotak kontribusi MILIKMU, kamu harus mengaktifkan GitHub Actions 'pacman-contribution-graph' di repositori kamu. 
-(Cari tutorialnya di GitHub dengan keyword: abozanona/pacman-contribution-graph)
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limul-ert/limul-ert/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/limul-ert/limul-ert/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/limul-ert/limul-ert/output/pacman-contribution-graph.svg">
-</picture>
-
-<!-- Tombol Buy Me A Coffee milik orang lain sudah dihapus -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
